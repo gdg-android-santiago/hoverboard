@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "devfest-2018-dev.firebaseapp.com",
+  "url": "devfest-2018-e0081.firebaseapp.com",
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBmO741Iu7zHqCYR8DDP9VpexQ9pUUed2Q",
-    "authDomain": "devfest-2018-dev.firebaseapp.com",
-    "databaseURL": "https://devfest-2018-dev.firebaseio.com",
-    "projectId": "devfest-2018-dev",
-    "storageBucket": "devfest-2018-dev.appspot.com",
-    "messagingSenderId": "333007277287"
+    "apiKey": "AIzaSyCW_ItOgkbJm8QkDygavjkXIWDZ5nmXkAo",
+    "authDomain": "devfest-2018-e0081.firebaseapp.com",
+    "databaseURL": "https://devfest-2018-e0081.firebaseio.com",
+    "projectId": "devfest-2018-e0081",
+    "storageBucket": "devfest-2018-e0081.appspot.com",
+    "messagingSenderId": "799778524604"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
 }

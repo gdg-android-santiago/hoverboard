@@ -47,14 +47,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F18076794_10211398874104175_5915217713287185645_o.jpg?alt=media&token=8ffef107-963d-4d4d-91b1-eddd586e7ea5",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F26758481_10213734810661129_6839558286103339039_o.jpg?alt=media&token=ee07927c-7de8-4bb7-8521-071bed245d8d",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F28162064_10214004574685061_5098480059211400954_o.jpg?alt=media&token=61ed0b64-eb77-4c4a-807f-7cdf6a46518c",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F37742675_10215148863251560_1438778713759023104_o.jpg?alt=media&token=fd750255-3699-4ed0-8371-43593474ae18",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F37689321_10215148849531217_294393735825850368_o.jpg?alt=media&token=8f96911b-194b-4dbf-99fa-5ac463b44e50",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F28828430_10214251067887237_3812184012742362856_o.jpg?alt=media&token=4ffa6c91-6a72-41ae-a9bf-7c16dc1034f2",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F28827804_10214251078847511_9177125995427749233_o.jpg?alt=media&token=1afbcf6b-b175-4f01-9ab1-5acb5d276b90",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-2018-e0081.appspot.com/o/gallery%2F28337178_10214004569004919_6091638751703735684_o.jpg?alt=media&token=029d4461-ad3f-40cd-aac2-4dbb3eb3f09f"
   ],
   "notifications" : {
     "config" : {

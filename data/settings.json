@@ -1,6 +1,6 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Android Santiago",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
@@ -13,40 +13,25 @@
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "es-ES"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
-      "route": "home",
+      "route": "inicio",
       "permalink": "/",
-      "label": "Home"
+      "label": "Inicio"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
-      "route": "team",
+      "route": "Equipo",
       "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Equipo"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Se un heroe, se un GDG!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -55,7 +40,7 @@
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Lee nuestro blog",
       "background": {
         "color": "#FFF"
       },
@@ -79,7 +64,7 @@
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Agenda",
       "metaDescription": "Choose your sessions to visit",
       "background": {
         "color": "#fff"
@@ -87,8 +72,8 @@
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Equipo",
+      "metaDescription": "Más información de los organizadores",
       "background": {
         "color": "#fff"
       },
@@ -96,15 +81,15 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "metaDescription": "Encuentra tu respuesta aquí!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Codigo de conducta",
+      "metaDescription": "Obtenga más información sobre nuestras expectativas para todos los que participan en nuestra comunidad",
       "background": {
         "color": "#fff"
       },
@@ -113,20 +98,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Pronto más información",
+    "city": "Santiago",
+    "short": "Santiago, Chile",
+    "address": "Pronto más información",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -33.4727092,
+      "longitude": -70.769916,
+      "zoom": 11
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -33.4727092,
+      "longitude": -70.769916
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Pronto más información"
   },
   "mediaQueries": {
     "xs": {
@@ -148,19 +133,7 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://web.facebook.com/groups/androidchile/"
       }
     ],
     "share": [
@@ -171,10 +144,6 @@
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
       }
     ]
   },
@@ -187,17 +156,17 @@
     "providersData": [
       {
         "name": "google",
-        "label": "Sign in with Google",
+        "label": "Registrate con Google",
         "url": "https://accounts.google.com"
       },
       {
         "name": "facebook",
-        "label": "Sign in with Facebook",
+        "label": "Registrate con Facebook",
         "url": "https://www.facebook.com"
       },
       {
         "name": "twitter",
-        "label": "Sign in with Twitter",
+        "label": "Registrate con Twitter",
         "url": "https://twitter.com"
       }
     ],

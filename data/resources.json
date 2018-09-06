@@ -1,19 +1,19 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "GDG DevFest Santiago 2018",
+  "description": "Se un Heroe, se un GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "October 12-13, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Siguenos",
+  "emailUs": "Contactanos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
+  "buyTicket": "ENTRADAS",
+  "signIn": "Registrate",
+  "signOut": "Cierra sesión",
   "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
@@ -28,16 +28,16 @@
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mi Agenda",
+    "browseSession": "Busca sesiones"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Acerca",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Android Santiago",
+          "url": "https://web.facebook.com/groups/androidchile/",
           "newTab": true
         },
         {
@@ -81,47 +81,27 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSf1a9Q0VvorUvfWVSBTyybtW34tRmfnZS_XbbbbvHnPLvvMvA/viewform",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "No spam, solo las últimas actualizaciones!",
+  "codeOfConduct": "Codigo de conducta",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Qué es el DevFest Santiago, y qué haremos este año.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "GDG DevFest Santiago es un evento organizado por el GDG Android Santiago y GDG Antofagasta. Este 2018 reuniremos a los mejores en Internet Of Things (IOT), Artificial Intelligence (AI) y Cyber Security; en dos días llenos de sesiones, talleres y exhibiciones.",
+        "label": "Que es un DevFest",
+        "youtubeId": "TdpbgRgz6eE"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Como siempre tendremos nuestros tracks de Android, Cloud, Firebase y más.",
+        "label": "Que es un DevFest",
+        "youtubeId": "-ccY4i0J5S4"
       }
     },
     "statisticsBlock": {
@@ -131,7 +111,7 @@
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
@@ -145,21 +125,21 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Entradas te dan acceso a todas las charlas.",
     "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
+    "notAvailableYet": "No disponible aún",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
+    "button": "Conviertete en partner",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Conviertete en partner!",
+      "submitLabel": "Registrate",
+      "fullName": "Nombre",
+      "companyName": "Nombre de la empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Te contactaremos pronto!"
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
@@ -200,9 +180,9 @@
   },
   "galleryBlock": {
     "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "description": "La comunidad GDG Android Santiago de este año generó mucha emoción. Mira las fotos de las charlas, las sesiones de aprendizaje práctico y la diversión fuera del horario de trabajo.",
     "callToAction": {
-      "label": "See all photos",
+      "label": "Ver todas las fotos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
@@ -214,41 +194,41 @@
       "description": "Get notified about the important conference updates",
       "label": "Subscribe"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Tu email",
+    "emailAddress": "e-mail",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "formTitle": "Obtenga las últimas actualizaciones, estadísticas y noticias sobre GDG DevFest Santiago enviadas a su correo.",
+    "emailRequired": "Ingrese un email valido.",
+    "subscribe": "Subscribirse",
+    "subscribed": "Suscrito",
+    "close": "Cerrar",
+    "generalError": "Ocurrio un error, por favor intente más tarde.",
+    "toast": "Subscripción realizada con exito!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google es conocido en todo el mundo. Todo el mundo está 'buscando en Google', revisando 'mapas' y comunicándose con 'gmail'. Para usuarios simples, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más: API, problemas de escalabilidad, stacks de tecnología complejas. Y de eso se trata GDG. <br> <br> [Google Developers Group (GDG) Lviv] (http://lviv.gdg.org.ua/) - es una comunidad geek abierta y voluntaria que crea proyectos interesantes y comparte experiencia en tecnologías de Google con pasión. <br> <br> Nuestro objetivo es organizar espacios para conectar a los mejores expertos de la industria con la audiencia de Santiago de Chile para impulsar el desarrollo de TI."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Inicie sesión"
   },
   "sessionDetails": {
     "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
+    "viewPresentation": "Ver presentación",
+    "viewVideo": "Ver videos",
     "speakers": "Speakers"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Sesiones"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Habilitar notificaciones",
+    "enabled": "Te extrañaremos, pero puedes desuscribirte en cualquier momento",
+    "blocked": "No podemos enviarte notificaciones en este momento. Por favor habilite las notificaciones en tu navegador",
+    "subscribe": "Subscribirse",
+    "unsubscribe": "desuscribirse",
     "enable": {
-      "label": "Enable",
+      "label": "Habilitar",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
@@ -260,7 +240,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Android Santiago</a> Con el apoyo de 2 GDGs de todo Chile",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -268,9 +248,9 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developers Group (GDG) - Es una comunidad geek abierta y voluntaria que crea proyectos emocionantes y comparte experiencias sobre las tecnologías de Google con pasión",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leer más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
@@ -278,7 +258,7 @@
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
+    "alreadyHaveAccount": "Tu ya tienes una cuenta",
     "alreadyUsed": "You've already used",
     "signInToContinue": {
       "part1": "Sign in with",
