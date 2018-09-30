@@ -152,15 +152,15 @@
         </paper-tab>
         {% endfor %}
 
-        <paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>
+        <!--<paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>
 
         <a href$="[[_getTicketUrl(tickets)]]" target="_blank" rel="noopener noreferrer" ga-on="click"
            ga-event-category="ticket button" ga-event-action="buy_click">
           <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-        </a>
+        </a>-->
       </paper-tabs>
 
-      <paper-menu-button
+      <!--<paper-menu-button
         id="notificationsMenu"
         class="notifications-menu"
         vertical-align="top"
@@ -184,7 +184,7 @@
               <paper-button primary-text on-tap="_toggleNotifications">{$ notifications.unsubscribe $}</paper-button>
             </div>
           </div>
-          <div hidden$="[[_hideNotificationBlock(notifications.status, 'DENIED')]]">
+          <div hidden$="[[_hideNot<!--ificationBlock(notifications.status, 'DENIED')]]">
             <p>{$ notifications.blocked $}</p>
             <div class="panel-actions" layout horizontal end-justified>
               <a href="{$ notifications.enable.link $}" target="_blank" rel="noopener noreferrer">
@@ -194,7 +194,7 @@
             </div>
           </div>
         </div>
-      </paper-menu-button>
+      </paper-menu-button>-->
 
       <paper-menu-button
         class="auth-menu"

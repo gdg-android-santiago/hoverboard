@@ -24,9 +24,9 @@
       "label": "Inicio"
     },
     {
-      "route": "Equipo",
-      "permalink": "/team/",
-      "label": "Equipo"
+      "route": "Speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
     }
   ],
   "heroSettings": {
@@ -97,21 +97,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Pronto más información",
+    "label": "Ubicación",
+    "name": "Universidad San Sebastian sede Bellavista",
     "city": "Santiago",
     "short": "Santiago, Chile",
     "address": "Pronto más información",
     "pointer": {
-      "latitude": -33.4727092,
-      "longitude": -70.769916,
-      "zoom": 11
+      "latitude": -33.4345108,
+      "longitude": -70.6382745,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": -33.4727092,
-      "longitude": -70.769916
+      "latitude": -33.4345108,
+      "longitude": -70.6382745
     },
-    "description": "Pronto más información"
+    "description": "Universidad San Sebastian sede Bellavista"
   },
   "mediaQueries": {
     "xs": {
